@@ -59,6 +59,8 @@ public class JavaApplication2 {
             }
         }
 
+
+        //sdf fasf asf asfa sf as
         // Report the result
         if (found) {
             System.out.println("Congratulations! Your card is in the magic hand.");
